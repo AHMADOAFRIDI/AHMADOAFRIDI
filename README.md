@@ -48,6 +48,7 @@
 | Project | About | ⭐ Stars | Language |
 |---|---|---|---|
 | [AHMADOAFRIDI.github.io](https://github.com/AHMADOAFRIDI/AHMADOAFRIDI.github.io) | This is a portfolio about me | 0 | HTML |
+| [GitHub Tools Hub](https://github-tools-hub.vercel.app) | Next.js tools hub — README Generator, Repo Health Checker and GitHub Action Showcase | — | TypeScript |
 
 ## 🤝 Connect With Me
 
