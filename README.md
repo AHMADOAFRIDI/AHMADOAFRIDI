@@ -48,8 +48,6 @@
 | Project | About | ⭐ Stars | Language |
 |---|---|---|---|
 | [AHMADOAFRIDI.github.io](https://github.com/AHMADOAFRIDI/AHMADOAFRIDI.github.io) | This is a portfolio about me | 0 | HTML |
-| [linden-pharmacy](https://github.com/AHMADOAFRIDI/linden-pharmacy) | A PHARMACY STORE | 0 | — |
-| [Zohaib_Ahmed-](https://github.com/AHMADOAFRIDI/Zohaib_Ahmed-) | Your All-in-One WhatsApp Excitement Buddy | 0 | — |
 
 ## 🤝 Connect With Me
 
