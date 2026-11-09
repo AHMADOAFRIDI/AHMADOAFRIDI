@@ -49,7 +49,7 @@
 |---|---|---|---|
 | [AHMADOAFRIDI.github.io](https://github.com/AHMADOAFRIDI/AHMADOAFRIDI.github.io) | This is a portfolio about me | 0 | HTML |
 | [GitHub Tools Hub](https://github-tools-hub.vercel.app) | Next.js tools hub — README Generator, Repo Health Checker and GitHub Action Showcase | — | TypeScript |
-| [AHMEX](https://ahmex-tools.vercel.app) | Everything. Simplified. — 16 free PDF, document & AI tools, no signup | — | HTML |
+| [AHMEX](https://ahmex-tools.vercel.app) | Everything. Simplified. — 31 free PDF, document & AI tools, no signup | — | HTML |
 
 ## 🤝 Connect With Me
 
